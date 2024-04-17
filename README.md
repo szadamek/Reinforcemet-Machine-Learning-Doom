@@ -1,1 +1,1 @@
-# Reinforcemet-Machine-Learning-Doom
+# Reinforcement-Machine-Learning-Doom
